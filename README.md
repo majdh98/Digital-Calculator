@@ -29,3 +29,5 @@ This repository contains:
 - [SCI_Reciever_test_bench.vhd](https://github.com/majdh98/Digital-Calculator/blob/main/SCI_Reciever_test_bench.vhd): Test bench of the SCI receiver.
 - [7_segment_display.vhd](https://github.com/majdh98/Digital-Calculator/blob/main/7_segment_display.vhd): VHDL code of the 7 segment display. Adapted from Proff. E.W. Hansen code. 
 - [Constraints.xdc](https://github.com/majdh98/Digital-Calculator/blob/main/Constraints.xdc): Constraints for the digital calculator for the Basys3 board
+
+**Additionally, all code and test benches can be found EDA playground. The test bench can be run with different options on EDA playground. Links to the EDA projects: [Digital Calculator shell (entire project)](https://www.edaplayground.com/x/qhNa), [SCI reciever](https://www.edaplayground.com/x/SZ7T), [7-segment display](https://www.edaplayground.com/x/HE_d) **
